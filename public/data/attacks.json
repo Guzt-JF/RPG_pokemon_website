@@ -2282,8 +2282,8 @@
     {
         "id": 381,
         "type": "Normal",
-        "name": "Batton Pass",
-        "img_name": "normal/batton_pass"
+        "name": "Baton Pass",
+        "img_name": "normal/baton_pass"
     },
     {
         "id": 382,
@@ -3044,8 +3044,8 @@
     {
         "id": 508,
         "type": "Normal",
-        "name": "Smeling Salt",
-        "img_name": "normal/smeling_salt"
+        "name": "Smelling Salt",
+        "img_name": "normal/smelling_salt"
     },
     {
         "id": 509,
