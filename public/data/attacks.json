@@ -3956,14 +3956,14 @@
     {
         "id": 659,
         "type": "Steel",
-        "name": "Behemoth Bash",
-        "img_name": "steel/behemoth_bash"
+        "name": "Behemot Bash",
+        "img_name": "steel/behemot_bash"
     },
     {
         "id": 660,
         "type": "Steel",
-        "name": "Behemoth Blade",
-        "img_name": "steel/behemoth_blade"
+        "name": "Behemot Blade",
+        "img_name": "steel/behemot_blade"
     },
     {
         "id": 661,
