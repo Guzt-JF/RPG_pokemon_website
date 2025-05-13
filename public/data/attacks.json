@@ -2138,8 +2138,8 @@
     {
         "id": 357,
         "type": "Ice",
-        "name": "Freeze-Dry",
-        "img_name": "ice/freeze-dry"
+        "name": "Freeze Dry",
+        "img_name": "ice/freeze_dry"
     },
     {
         "id": 358,
