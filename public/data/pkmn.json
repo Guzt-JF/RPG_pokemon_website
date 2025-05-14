@@ -6901,9 +6901,9 @@
     "id": 687,
     "name": "malamar",
     "sprites": {
-      "front_default": "/pkmn/687.svg",
+      "front_default": "/pkmn/687.png",
       "front_female": null,
-      "front_shiny": "/pkmn/shiny/687.svg",
+      "front_shiny": "/pkmn/shiny/687.png",
       "front_shiny_female": null
     },
     "cries": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/687.ogg",
