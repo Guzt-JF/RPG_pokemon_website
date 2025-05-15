@@ -6,13 +6,17 @@ export async function GET(req) {
   const URL_KEY = process.env.URL_KEY;
 
   try {
+    const { searchParams } = new URL(req.url, `http://${req.headers.host}`);
+    const idFilter = searchParams.get("id");
+    console.log(idFilter);
+
     const response = await fetch(`${API_URL}/api/PKMN/get_basic`, {
       method: "POST",
       headers: {
         Authorization: `Bearer ${URL_KEY}`,
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({}),
+      body: JSON.stringify({trainer_id: idFilter}),
     });
 
     if (!response.ok) {

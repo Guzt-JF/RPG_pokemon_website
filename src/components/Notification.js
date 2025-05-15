@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-const Notification = ({ message, setMessage }) => {
+const Notification = ({ color = 'red', message, setMessage }) => {
     const [visible, setVisible] = useState(true);
     const [timer, setTimer] = useState(5); // Timer starts at 5 seconds
     const [progress, setProgress] = useState(100); // Progress bar starts at 100%
@@ -43,7 +43,7 @@ const Notification = ({ message, setMessage }) => {
             <div style={styles.notification}>
                 {message}
             </div>
-            <div style={{ ...styles.progressBar, width: `${progress}%` }} />
+            <div style={{ ...styles.progressBar, width: `${progress}%`, backgroundColor: color }} />
         </div>
     );
 };
@@ -65,7 +65,7 @@ const styles = {
     },
     progressBar: {
         height: '5px',
-        backgroundColor: 'red',
+        // backgroundColor will be set dynamically in the render method
         borderRadius: '5px',
         transition: 'width 1s linear',
     },

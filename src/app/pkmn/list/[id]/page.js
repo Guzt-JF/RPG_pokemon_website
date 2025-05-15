@@ -7,6 +7,7 @@ import PokemonDetails from "@/components/PokemonDetails";
 import Notification from "@/components/Notification";
 import RangeList from "@/components/RangeList";
 import AttackSelector from "@/components/AttackSelector";
+import attacks from "public/data/attacks.json";
 
 export default function PokemonDetailsPage() {
   const { id } = useParams(); // Get the Pokémon ID from the URL
@@ -141,7 +142,7 @@ export default function PokemonDetailsPage() {
           setfilteredAttacks={setfilteredAttacks}
           selectedAttacks={selectedAttacks}
           setSelectedAttacks={setSelectedAttacks}
-          attacks={pokemonData.attacks}
+          attacks={attacks}
           handleTypeClick={handleTypeClick}
         />
         <Notification

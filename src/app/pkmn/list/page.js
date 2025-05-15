@@ -3,16 +3,20 @@ import { useEffect, useState } from "react";
 import Pkmn from "public/data/pkmn.json"; 
 import attacks from "public/data/attacks.json"; 
 import Image from "next/image";
+import { useSearchParams } from "next/navigation";
 
 export default function Home() {
+
   const [data, setData] = useState(null);
   const [error, setError] = useState(null);
 
   useEffect(() => {
     async function fetchData() {
       try {
-        const response = await fetch(`/api/pkmn/get_basic`); // Call the API route
+        console.log(`/api/pkmn/get_basic?id=${localStorage.getItem("authKey") || '999'}`)
+        const response = await fetch(`/api/pkmn/get_basic?id=${localStorage.getItem("authKey") || '999'}`); // Call the API route
         if (!response.ok) {
+          console.log(response)
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const result = await response.json();

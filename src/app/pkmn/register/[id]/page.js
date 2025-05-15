@@ -76,7 +76,7 @@ export default function Home() {
     const data = { 
       id_dex: parseInt(id),
       attacks: selectedAttackIds,
-      trainer_id: 1,
+      trainer_id: localStorage?.getItem("authKey") || '1',
       nickname,
       ranges: selectedRanges,
       ability,
