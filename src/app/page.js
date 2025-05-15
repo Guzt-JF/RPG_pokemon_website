@@ -5,8 +5,10 @@ import { useEffect, useState } from "react";
 import Notification from "@/components/Notification";
 
 export default function Home() {
+  
     const [messageFinish, setMessageFinish] = useState("");
     const [logado, setLogado] = useState(false);
+    const [showPassword, setShowPassword] = useState(false);
 
     useEffect(() => {
       if (typeof window !== "undefined") {
@@ -37,12 +39,24 @@ export default function Home() {
             className="p-2 border border-gray-300 rounded"
             autoComplete="username"
           />
-          <input
-            type="password"
-            placeholder="Senha"
-            className="p-2 border border-gray-300 rounded"
-            autoComplete="current-password"
-          />
+          
+          <div className="relative">
+            <input
+              id="password-input"
+              type={showPassword ? "text" : "password"}
+              placeholder="Senha"
+              className="p-2 border border-gray-300 rounded w-full"
+              autoComplete="current-password"
+            />
+            <button
+              type="button"
+              className="absolute right-2 top-2 text-xs bg-transparent-200 px-2 py-1 rounded"
+              onClick={() => setShowPassword((prev) => !prev)}
+              tabIndex={-1}
+            >
+              {showPassword ? "Ocultar" : "Mostrar"}
+            </button>
+          </div>
           <button
             type="submit"
             onClick={async (e) => {
