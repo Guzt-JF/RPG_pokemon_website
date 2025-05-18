@@ -7319,5 +7319,1556 @@
 			"fire",
 			"water"
 		]
-	}
+	},
+  {
+    "name": "rowlet",
+    "id": 722,
+    "sprites": {
+      "front_default": "/pkmn/722.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/722.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/722.ogg",
+      "legacy": null
+    },
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "name": "dartrix",
+    "id": 723,
+    "sprites": {
+      "front_default": "/pkmn/723.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/723.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/723.ogg",
+      "legacy": null
+    },
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "name": "decidueye",
+    "id": 724,
+    "sprites": {
+      "front_default": "/pkmn/724.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/724.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/724.ogg",
+      "legacy": null
+    },
+    "types": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "name": "litten",
+    "id": 725,
+    "sprites": {
+      "front_default": "/pkmn/725.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/725.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/725.ogg",
+      "legacy": null
+    },
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "name": "torracat",
+    "id": 726,
+    "sprites": {
+      "front_default": "/pkmn/726.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/726.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/726.ogg",
+      "legacy": null
+    },
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "name": "incineroar",
+    "id": 727,
+    "sprites": {
+      "front_default": "/pkmn/727.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/727.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/727.ogg",
+      "legacy": null
+    },
+    "types": [
+      "fire",
+      "dark"
+    ]
+  },
+  {
+    "name": "popplio",
+    "id": 728,
+    "sprites": {
+      "front_default": "/pkmn/728.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/728.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/728.ogg",
+      "legacy": null
+    },
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "name": "brionne",
+    "id": 729,
+    "sprites": {
+      "front_default": "/pkmn/729.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/729.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/729.ogg",
+      "legacy": null
+    },
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "name": "primarina",
+    "id": 730,
+    "sprites": {
+      "front_default": "/pkmn/730.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/730.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/730.ogg",
+      "legacy": null
+    },
+    "types": [
+      "water",
+      "fairy"
+    ]
+  },
+  {
+    "name": "pikipek",
+    "id": 731,
+    "sprites": {
+      "front_default": "/pkmn/731.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/731.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/731.ogg",
+      "legacy": null
+    },
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "name": "trumbeak",
+    "id": 732,
+    "sprites": {
+      "front_default": "/pkmn/732.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/732.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/732.ogg",
+      "legacy": null
+    },
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "name": "toucannon",
+    "id": 733,
+    "sprites": {
+      "front_default": "/pkmn/733.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/733.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/733.ogg",
+      "legacy": null
+    },
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "name": "yungoos",
+    "id": 734,
+    "sprites": {
+      "front_default": "/pkmn/734.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/734.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/734.ogg",
+      "legacy": null
+    },
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "name": "gumshoos",
+    "id": 735,
+    "sprites": {
+      "front_default": "/pkmn/735.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/735.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/735.ogg",
+      "legacy": null
+    },
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "name": "grubbin",
+    "id": 736,
+    "sprites": {
+      "front_default": "/pkmn/736.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/736.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/736.ogg",
+      "legacy": null
+    },
+    "types": [
+      "bug"
+    ]
+  },
+  {
+    "name": "charjabug",
+    "id": 737,
+    "sprites": {
+      "front_default": "/pkmn/737.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/737.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/737.ogg",
+      "legacy": null
+    },
+    "types": [
+      "bug",
+      "electric"
+    ]
+  },
+  {
+    "name": "vikavolt",
+    "id": 738,
+    "sprites": {
+      "front_default": "/pkmn/738.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/738.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/738.ogg",
+      "legacy": null
+    },
+    "types": [
+      "bug",
+      "electric"
+    ]
+  },
+  {
+    "name": "crabrawler",
+    "id": 739,
+    "sprites": {
+      "front_default": "/pkmn/739.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/739.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/739.ogg",
+      "legacy": null
+    },
+    "types": [
+      "fighting"
+    ]
+  },
+  {
+    "name": "crabominable",
+    "id": 740,
+    "sprites": {
+      "front_default": "/pkmn/740.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/740.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/740.ogg",
+      "legacy": null
+    },
+    "types": [
+      "fighting",
+      "ice"
+    ]
+  },
+  {
+    "name": "oricorio-baile",
+    "id": 741,
+    "sprites": {
+      "front_default": "/pkmn/741.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/741.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/741.ogg",
+      "legacy": null
+    },
+    "types": [
+      "fire",
+      "flying"
+    ]
+  },
+  {
+    "name": "cutiefly",
+    "id": 742,
+    "sprites": {
+      "front_default": "/pkmn/742.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/742.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/742.ogg",
+      "legacy": null
+    },
+    "types": [
+      "bug",
+      "fairy"
+    ]
+  },
+  {
+    "name": "ribombee",
+    "id": 743,
+    "sprites": {
+      "front_default": "/pkmn/743.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/743.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/743.ogg",
+      "legacy": null
+    },
+    "types": [
+      "bug",
+      "fairy"
+    ]
+  },
+  {
+    "name": "rockruff",
+    "id": 744,
+    "sprites": {
+      "front_default": "/pkmn/744.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/744.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/744.ogg",
+      "legacy": null
+    },
+    "types": [
+      "rock"
+    ]
+  },
+  {
+    "name": "lycanroc-midday",
+    "id": 745,
+    "sprites": {
+      "front_default": "/pkmn/745.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/745.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/745.ogg",
+      "legacy": null
+    },
+    "types": [
+      "rock"
+    ]
+  },
+  {
+    "name": "wishiwashi-solo",
+    "id": 746,
+    "sprites": {
+      "front_default": "/pkmn/746.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/746.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/746.ogg",
+      "legacy": null
+    },
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "name": "mareanie",
+    "id": 747,
+    "sprites": {
+      "front_default": "/pkmn/747.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/747.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/747.ogg",
+      "legacy": null
+    },
+    "types": [
+      "poison",
+      "water"
+    ]
+  },
+  {
+    "name": "toxapex",
+    "id": 748,
+    "sprites": {
+      "front_default": "/pkmn/748.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/748.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/748.ogg",
+      "legacy": null
+    },
+    "types": [
+      "poison",
+      "water"
+    ]
+  },
+  {
+    "name": "mudbray",
+    "id": 749,
+    "sprites": {
+      "front_default": "/pkmn/749.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/749.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/749.ogg",
+      "legacy": null
+    },
+    "types": [
+      "ground"
+    ]
+  },
+  {
+    "name": "mudsdale",
+    "id": 750,
+    "sprites": {
+      "front_default": "/pkmn/750.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/750.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/750.ogg",
+      "legacy": null
+    },
+    "types": [
+      "ground"
+    ]
+  },
+  {
+    "name": "dewpider",
+    "id": 751,
+    "sprites": {
+      "front_default": "/pkmn/751.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/751.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/751.ogg",
+      "legacy": null
+    },
+    "types": [
+      "water",
+      "bug"
+    ]
+  },
+  {
+    "name": "araquanid",
+    "id": 752,
+    "sprites": {
+      "front_default": "/pkmn/752.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/752.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/752.ogg",
+      "legacy": null
+    },
+    "types": [
+      "water",
+      "bug"
+    ]
+  },
+  {
+    "name": "fomantis",
+    "id": 753,
+    "sprites": {
+      "front_default": "/pkmn/753.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/753.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/753.ogg",
+      "legacy": null
+    },
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "name": "lurantis",
+    "id": 754,
+    "sprites": {
+      "front_default": "/pkmn/754.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/754.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/754.ogg",
+      "legacy": null
+    },
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "name": "morelull",
+    "id": 755,
+    "sprites": {
+      "front_default": "/pkmn/755.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/755.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/755.ogg",
+      "legacy": null
+    },
+    "types": [
+      "grass",
+      "fairy"
+    ]
+  },
+  {
+    "name": "shiinotic",
+    "id": 756,
+    "sprites": {
+      "front_default": "/pkmn/756.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/756.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/756.ogg",
+      "legacy": null
+    },
+    "types": [
+      "grass",
+      "fairy"
+    ]
+  },
+  {
+    "name": "salandit",
+    "id": 757,
+    "sprites": {
+      "front_default": "/pkmn/757.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/757.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/757.ogg",
+      "legacy": null
+    },
+    "types": [
+      "poison",
+      "fire"
+    ]
+  },
+  {
+    "name": "salazzle",
+    "id": 758,
+    "sprites": {
+      "front_default": "/pkmn/758.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/758.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/758.ogg",
+      "legacy": null
+    },
+    "types": [
+      "poison",
+      "fire"
+    ]
+  },
+  {
+    "name": "stufful",
+    "id": 759,
+    "sprites": {
+      "front_default": "/pkmn/759.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/759.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/759.ogg",
+      "legacy": null
+    },
+    "types": [
+      "normal",
+      "fighting"
+    ]
+  },
+  {
+    "name": "bewear",
+    "id": 760,
+    "sprites": {
+      "front_default": "/pkmn/760.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/760.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/760.ogg",
+      "legacy": null
+    },
+    "types": [
+      "normal",
+      "fighting"
+    ]
+  },
+  {
+    "name": "bounsweet",
+    "id": 761,
+    "sprites": {
+      "front_default": "/pkmn/761.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/761.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/761.ogg",
+      "legacy": null
+    },
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "name": "steenee",
+    "id": 762,
+    "sprites": {
+      "front_default": "/pkmn/762.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/762.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/762.ogg",
+      "legacy": null
+    },
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "name": "tsareena",
+    "id": 763,
+    "sprites": {
+      "front_default": "/pkmn/763.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/763.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/763.ogg",
+      "legacy": null
+    },
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "name": "comfey",
+    "id": 764,
+    "sprites": {
+      "front_default": "/pkmn/764.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/764.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/764.ogg",
+      "legacy": null
+    },
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "name": "oranguru",
+    "id": 765,
+    "sprites": {
+      "front_default": "/pkmn/765.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/765.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/765.ogg",
+      "legacy": null
+    },
+    "types": [
+      "normal",
+      "psychic"
+    ]
+  },
+  {
+    "name": "passimian",
+    "id": 766,
+    "sprites": {
+      "front_default": "/pkmn/766.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/766.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/766.ogg",
+      "legacy": null
+    },
+    "types": [
+      "fighting"
+    ]
+  },
+  {
+    "name": "wimpod",
+    "id": 767,
+    "sprites": {
+      "front_default": "/pkmn/767.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/767.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/767.ogg",
+      "legacy": null
+    },
+    "types": [
+      "bug",
+      "water"
+    ]
+  },
+  {
+    "name": "golisopod",
+    "id": 768,
+    "sprites": {
+      "front_default": "/pkmn/768.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/768.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/768.ogg",
+      "legacy": null
+    },
+    "types": [
+      "bug",
+      "water"
+    ]
+  },
+  {
+    "name": "sandygast",
+    "id": 769,
+    "sprites": {
+      "front_default": "/pkmn/769.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/769.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/769.ogg",
+      "legacy": null
+    },
+    "types": [
+      "ghost",
+      "ground"
+    ]
+  },
+  {
+    "name": "palossand",
+    "id": 770,
+    "sprites": {
+      "front_default": "/pkmn/770.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/770.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/770.ogg",
+      "legacy": null
+    },
+    "types": [
+      "ghost",
+      "ground"
+    ]
+  },
+  {
+    "name": "pyukumuku",
+    "id": 771,
+    "sprites": {
+      "front_default": "/pkmn/771.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/771.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/771.ogg",
+      "legacy": null
+    },
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "name": "type-null",
+    "id": 772,
+    "sprites": {
+      "front_default": "/pkmn/772.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/772.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/772.ogg",
+      "legacy": null
+    },
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "name": "silvally",
+    "id": 773,
+    "sprites": {
+      "front_default": "/pkmn/773.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/773.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/773.ogg",
+      "legacy": null
+    },
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "name": "minior-red-meteor",
+    "id": 774,
+    "sprites": {
+      "front_default": "/pkmn/774.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/774.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/774.ogg",
+      "legacy": null
+    },
+    "types": [
+      "rock",
+      "flying"
+    ]
+  },
+  {
+    "name": "komala",
+    "id": 775,
+    "sprites": {
+      "front_default": "/pkmn/775.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/775.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/775.ogg",
+      "legacy": null
+    },
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "name": "turtonator",
+    "id": 776,
+    "sprites": {
+      "front_default": "/pkmn/776.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/776.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/776.ogg",
+      "legacy": null
+    },
+    "types": [
+      "fire",
+      "dragon"
+    ]
+  },
+  {
+    "name": "togedemaru",
+    "id": 777,
+    "sprites": {
+      "front_default": "/pkmn/777.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/777.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/777.ogg",
+      "legacy": null
+    },
+    "types": [
+      "electric",
+      "steel"
+    ]
+  },
+  {
+    "name": "mimikyu-disguised",
+    "id": 778,
+    "sprites": {
+      "front_default": "/pkmn/778.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/778.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/778.ogg",
+      "legacy": null
+    },
+    "types": [
+      "ghost",
+      "fairy"
+    ]
+  },
+  {
+    "name": "bruxish",
+    "id": 779,
+    "sprites": {
+      "front_default": "/pkmn/779.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/779.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/779.ogg",
+      "legacy": null
+    },
+    "types": [
+      "water",
+      "psychic"
+    ]
+  },
+  {
+    "name": "drampa",
+    "id": 780,
+    "sprites": {
+      "front_default": "/pkmn/780.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/780.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/780.ogg",
+      "legacy": null
+    },
+    "types": [
+      "normal",
+      "dragon"
+    ]
+  },
+  {
+    "name": "dhelmise",
+    "id": 781,
+    "sprites": {
+      "front_default": "/pkmn/781.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/781.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/781.ogg",
+      "legacy": null
+    },
+    "types": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "name": "jangmo-o",
+    "id": 782,
+    "sprites": {
+      "front_default": "/pkmn/782.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/782.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/782.ogg",
+      "legacy": null
+    },
+    "types": [
+      "dragon"
+    ]
+  },
+  {
+    "name": "hakamo-o",
+    "id": 783,
+    "sprites": {
+      "front_default": "/pkmn/783.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/783.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/783.ogg",
+      "legacy": null
+    },
+    "types": [
+      "dragon",
+      "fighting"
+    ]
+  },
+  {
+    "name": "kommo-o",
+    "id": 784,
+    "sprites": {
+      "front_default": "/pkmn/784.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/784.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/784.ogg",
+      "legacy": null
+    },
+    "types": [
+      "dragon",
+      "fighting"
+    ]
+  },
+  {
+    "name": "tapu-koko",
+    "id": 785,
+    "sprites": {
+      "front_default": "/pkmn/785.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/785.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/785.ogg",
+      "legacy": null
+    },
+    "types": [
+      "electric",
+      "fairy"
+    ]
+  },
+  {
+    "name": "tapu-lele",
+    "id": 786,
+    "sprites": {
+      "front_default": "/pkmn/786.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/786.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/786.ogg",
+      "legacy": null
+    },
+    "types": [
+      "psychic",
+      "fairy"
+    ]
+  },
+  {
+    "name": "tapu-bulu",
+    "id": 787,
+    "sprites": {
+      "front_default": "/pkmn/787.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/787.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/787.ogg",
+      "legacy": null
+    },
+    "types": [
+      "grass",
+      "fairy"
+    ]
+  },
+  {
+    "name": "tapu-fini",
+    "id": 788,
+    "sprites": {
+      "front_default": "/pkmn/788.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/788.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/788.ogg",
+      "legacy": null
+    },
+    "types": [
+      "water",
+      "fairy"
+    ]
+  },
+  {
+    "name": "cosmog",
+    "id": 789,
+    "sprites": {
+      "front_default": "/pkmn/789.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/789.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/789.ogg",
+      "legacy": null
+    },
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "name": "cosmoem",
+    "id": 790,
+    "sprites": {
+      "front_default": "/pkmn/790.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/790.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/790.ogg",
+      "legacy": null
+    },
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "name": "solgaleo",
+    "id": 791,
+    "sprites": {
+      "front_default": "/pkmn/791.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/791.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/791.ogg",
+      "legacy": null
+    },
+    "types": [
+      "psychic",
+      "steel"
+    ]
+  },
+  {
+    "name": "lunala",
+    "id": 792,
+    "sprites": {
+      "front_default": "/pkmn/792.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/792.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/792.ogg",
+      "legacy": null
+    },
+    "types": [
+      "psychic",
+      "ghost"
+    ]
+  },
+  {
+    "name": "nihilego",
+    "id": 793,
+    "sprites": {
+      "front_default": "/pkmn/793.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/793.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/793.ogg",
+      "legacy": null
+    },
+    "types": [
+      "rock",
+      "poison"
+    ]
+  },
+  {
+    "name": "buzzwole",
+    "id": 794,
+    "sprites": {
+      "front_default": "/pkmn/794.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/794.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/794.ogg",
+      "legacy": null
+    },
+    "types": [
+      "bug",
+      "fighting"
+    ]
+  },
+  {
+    "name": "pheromosa",
+    "id": 795,
+    "sprites": {
+      "front_default": "/pkmn/795.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/795.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/795.ogg",
+      "legacy": null
+    },
+    "types": [
+      "bug",
+      "fighting"
+    ]
+  },
+  {
+    "name": "xurkitree",
+    "id": 796,
+    "sprites": {
+      "front_default": "/pkmn/796.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/796.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/796.ogg",
+      "legacy": null
+    },
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "name": "celesteela",
+    "id": 797,
+    "sprites": {
+      "front_default": "/pkmn/797.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/797.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/797.ogg",
+      "legacy": null
+    },
+    "types": [
+      "steel",
+      "flying"
+    ]
+  },
+  {
+    "name": "kartana",
+    "id": 798,
+    "sprites": {
+      "front_default": "/pkmn/798.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/798.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/798.ogg",
+      "legacy": null
+    },
+    "types": [
+      "grass",
+      "steel"
+    ]
+  },
+  {
+    "name": "guzzlord",
+    "id": 799,
+    "sprites": {
+      "front_default": "/pkmn/799.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/799.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/799.ogg",
+      "legacy": null
+    },
+    "types": [
+      "dark",
+      "dragon"
+    ]
+  },
+  {
+    "name": "necrozma",
+    "id": 800,
+    "sprites": {
+      "front_default": "/pkmn/800.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/800.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/800.ogg",
+      "legacy": null
+    },
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "name": "magearna",
+    "id": 801,
+    "sprites": {
+      "front_default": "/pkmn/801.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/801.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/801.ogg",
+      "legacy": null
+    },
+    "types": [
+      "steel",
+      "fairy"
+    ]
+  },
+  {
+    "name": "marshadow",
+    "id": 802,
+    "sprites": {
+      "front_default": "/pkmn/802.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/802.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/802.ogg",
+      "legacy": null
+    },
+    "types": [
+      "fighting",
+      "ghost"
+    ]
+  },
+  {
+    "name": "poipole",
+    "id": 803,
+    "sprites": {
+      "front_default": "/pkmn/803.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/803.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/803.ogg",
+      "legacy": null
+    },
+    "types": [
+      "poison"
+    ]
+  },
+  {
+    "name": "naganadel",
+    "id": 804,
+    "sprites": {
+      "front_default": "/pkmn/804.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/804.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/804.ogg",
+      "legacy": null
+    },
+    "types": [
+      "poison",
+      "dragon"
+    ]
+  },
+  {
+    "name": "stakataka",
+    "id": 805,
+    "sprites": {
+      "front_default": "/pkmn/805.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/805.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/805.ogg",
+      "legacy": null
+    },
+    "types": [
+      "rock",
+      "steel"
+    ]
+  },
+  {
+    "name": "blacephalon",
+    "id": 806,
+    "sprites": {
+      "front_default": "/pkmn/806.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/806.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/806.ogg",
+      "legacy": null
+    },
+    "types": [
+      "fire",
+      "ghost"
+    ]
+  },
+  {
+    "name": "zeraora",
+    "id": 807,
+    "sprites": {
+      "front_default": "/pkmn/807.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/807.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/807.ogg",
+      "legacy": null
+    },
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "name": "meltan",
+    "id": 808,
+    "sprites": {
+      "front_default": "/pkmn/808.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/808.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/808.ogg",
+      "legacy": null
+    },
+    "types": [
+      "steel"
+    ]
+  },
+  {
+    "name": "melmetal",
+    "id": 809,
+    "sprites": {
+      "front_default": "/pkmn/809.svg",
+      "front_female": null,
+      "front_shiny": "/pkmn/shiny/809.svg",
+      "front_shiny_female": null
+    },
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/809.ogg",
+      "legacy": null
+    },
+    "types": [
+      "steel"
+    ]
+  }
 ]
